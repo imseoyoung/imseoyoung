@@ -5,9 +5,11 @@
 
 </div>
 <br/>
-🐰 Hi :3 I'm Seoyoung.<br/>
-🎓  I'm majored in IT Engineering / clothing & textile at SMWU.<br/>
-📫 How to reach me: lsy783@sookmyung.ac.kr<br/>
+🐰 Hi :3 I'm Seoyoung.</br>
+🎓 I'm majored in <code>IT Engineering</code> / <code>clothing & textile</code> at SMWU.</br>
+📫 How to reach me: <code>lsy783@sookmyung.ac.kr</code>
+
+<br/>
 
 ***
 
