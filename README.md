@@ -18,9 +18,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imseoyoung&hide=contribs,prs&show_icons=true&theme=dracula&bg_color=FFFFFF&title_color=708090&text_color=708090&icon_color=FFCBCB) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imseoyoung&layout=compact&title_color=708090)
 
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imseoyoung&theme=dracula&bg_color=FFFFFF&color=708090&line=8C8C8C&point=8C8C8C&area=true&hide_border=true)
-
 <!--
 **imseoyoung/imseoyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
